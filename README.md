@@ -42,7 +42,7 @@ Getting Started
 
 To use this project locally, follow these steps:
 
-Clone this repository: git clone https://github.com/yourusername/emotion-recognition.git
+Clone this repository: git clone https://github.com/Chaitanyakota9/Real-time-Emotion-detection-GUI-.git
 Install the required dependencies (see Dependencies).
 Download the pre-trained model weights and place them in the project directory.
 Run the project by executing the main script.
@@ -53,6 +53,7 @@ OpenCV (cv2)
 NumPy
 TensorFlow (or other backend for Keras)
 PIL (Pillow)
+
 You can install the required dependencies using pip:
 
 pip install opencv-python numpy tensorflow pillow
